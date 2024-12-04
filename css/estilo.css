@@ -66,7 +66,10 @@ padding: 5px;
     margin-bottom: 30px;
 }
 .publicidad img{
-    max-height: 500px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 80%;
 }
 .bandeja{
     display: grid;
