@@ -5,6 +5,7 @@
 }
 body {
     margin: 40px;
+    background-color: #b9dbec;
 }
 .logo {
     max-width: 50px;
@@ -87,4 +88,36 @@ padding: 5px;
 .tarjeta a {
     color: red;
     text-decoration:none ;
+}
+#foto{
+    max-width: 55%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: block;
+margin: auto;
+}
+#foto2{
+    max-width: 55%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: block;
+margin: auto;
+}
+.video {
+    max-width: 55%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: block;
+margin: auto;
+}
+.video2 {
+    max-width: 55%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: block;
+margin: auto;
 }
